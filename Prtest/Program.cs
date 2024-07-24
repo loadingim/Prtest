@@ -14,6 +14,7 @@ namespace Prtest
 
         public class Farm
         {
+            //접근제어자를 활용해 접근 제한
             private int id;
             public string name;
             protected int time;
