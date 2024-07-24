@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prtest", "Prtest.csproj", "{6B57BF85-305E-4D16-AA83-96103E0A4AAD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homwork22", "..\..\..\source\repos\homwork22\homwork22.csproj", "{3F6C2E0A-DAF4-432B-BB68-763346F0D8D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6B57BF85-305E-4D16-AA83-96103E0A4AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B57BF85-305E-4D16-AA83-96103E0A4AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B57BF85-305E-4D16-AA83-96103E0A4AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F6C2E0A-DAF4-432B-BB68-763346F0D8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F6C2E0A-DAF4-432B-BB68-763346F0D8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F6C2E0A-DAF4-432B-BB68-763346F0D8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F6C2E0A-DAF4-432B-BB68-763346F0D8D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
