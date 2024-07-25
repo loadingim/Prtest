@@ -9,7 +9,7 @@ namespace Prtest
     public class Prtest
     {
 
-        //클래스 마다 역할이 나뉘어져 있어 가독성이 좋다 <<- 가독성 관련
+        // 클래스 마다 역할이 나뉘어져 있어 가독성이 좋다
         // 농장 클래스를 생성
 
         public class Farm
@@ -31,7 +31,7 @@ namespace Prtest
             }
         }
 
-        //농장 클래스를 상속받아 재사용 << - 재사용성에 관련
+        //농장 클래스를 상속받아 재사용
         public class Apple : Farm
         {
             public Apple(int id) : base(id)
@@ -73,7 +73,7 @@ namespace Prtest
             }
         }
 
-        // 새로운 장비 클래스가 필요할 경우 기존 코드를 수정하지 않고 새로운 클래스를 만들어 확장 가능 << - 유지보수 관련
+        // 새로운 장비 클래스가 필요할 경우 기존 코드를 수정하지 않고 새로운 클래스를 만들어 확장 가능
 
         public static void Main()
         {
